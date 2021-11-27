@@ -1,13 +1,4 @@
 <?php
-/*	SESSION_START();
-	if($_SESSION["user"]==true){
-		echo "Welcome as"." ".$_SESSION["user"];
-	}
-	else{
-		header('location:index.php');
-	}
-	include 'admin_header.php';*/
- 
 	require_once 'Controller/TourController.php';
     
 ?>
